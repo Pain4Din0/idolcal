@@ -9,9 +9,10 @@ The idolcal project is intended to collect the birthday data of characters and s
 - 22/7 Project
 - IDOLY PRIDE
 
-### Tips of the calendar timezone
+### Tips of the calendar time zone
 
-Timezones of all the calendars here are set to `Asia/Tokyo` (GMT+9), which means  you can get the right reminder notification without change the timezone of your own calendar.
+Time zones of all the calendars here are set to `Asia/Tokyo` (GMT+9), which means  you can get the right reminder notification without change the time zone of your own calendar.
 
-> eg. My current timezone is `Asia/Shanghai` (GMT+8, an hour later than Tokyo time), so I will receive birthday notification of 鐘 嵐珠 (Feb 15) at 23:00, Feb 14.
+> eg. My current time zone is `Asia/Shanghai` (GMT+8, an hour later than Tokyo time), so I will receive birthday notification of 鐘 嵐珠 (Feb 15) at 23:00, Feb 14.
 
+[Test link](https://raw.githubusercontent.com/Pain4Din0/idolcal/main/calendar/LoveLive.ics)
