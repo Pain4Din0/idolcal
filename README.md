@@ -15,4 +15,4 @@ Time zones of all the calendars here are set to `Asia/Tokyo` (GMT+9), which mean
 
 > eg. My current time zone is `Asia/Shanghai` (GMT+8, an hour later than Tokyo time), so I will receive birthday notification of 鐘 嵐珠 (Feb 15) at 23:00, Feb 14.
 
-[Test link](https://raw.githubusercontent.com/Pain4Din0/idolcal/main/calendar/LoveLive.ics)
+[Test link](calendar/LoveLive.ics)
