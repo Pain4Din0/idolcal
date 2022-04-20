@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Welcome to idolcal
 
-You can use the [editor on GitHub](https://github.com/Pain4Din0/idolcal/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The idolcal project is intended to collect the birthday data of characters and seiyuus of a number of idol projects. You can download the `.ics` file down below and import it to your calendar to trace and set reminders for your favorite anime character or seiyuu.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects we have supported now
 
-### Markdown
+- LoveLive Series (including μ's, Aqours, Nijigasaki High School Idol Club and Liella)
+- BanG Dream Project (all 7 bands)
+- 22/7 Project
+- IDOLY PRIDE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tips of the calendar timezone
 
-```markdown
-Syntax highlighted code block
+Timezones of all the calendars here are set to `Asia/Tokyo` (GMT+9), which means  you can get the right reminder notification without change the timezone of your own calendar.
 
-# Header 1
-## Header 2
-### Header 3
+> eg. My current timezone is `Asia/Shanghai` (GMT+8, an hour later than Tokyo time), so I will receive birthday notification of 鐘 嵐珠 (Feb 15) at 23:00, Feb 14.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pain4Din0/idolcal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
