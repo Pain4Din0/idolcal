@@ -29,7 +29,7 @@ _If you have any information, please contact me by email or Telegram._
 
 [Download .ics file](calendar/LoveLive.ics)
 
-[Add to local calendar](webcal:calendar/LoveLive.ics)
+[Add to local calendar](webcal://idolcal.ml/calendar/LoveLive.ics)
 
 [Subscribe on Google Calendar](https://calendar.google.com/calendar/u/1?cid=MXEwbzBibTZ0MXAxbGZjY2gya3RsNnFoamtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
@@ -37,7 +37,7 @@ _If you have any information, please contact me by email or Telegram._
 
 [Download .ics file](calendar/BanG_Dream.ics)
 
-[Add to local calendar](webcal:calendar/BanG_Dream.ics)
+[Add to local calendar](webcal://idolcal.ml/calendar/BanG_Dream.ics)
 
 [Subscribe on Google Calendar](https://calendar.google.com/calendar/u/1?cid=amJ1ZnE4cGttcDBtMXY5OWpjbmlxc3Q3b3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
