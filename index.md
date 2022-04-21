@@ -25,7 +25,7 @@ Time zones of all the calendars here are set to `Asia/Tokyo` (GMT+9), which mean
 
 _If you have any information, please contact me by email or Telegram._
 
-# Download & Subscribe
+# **Download & Subscribe**
 
 - **LoveLive Series**
 
