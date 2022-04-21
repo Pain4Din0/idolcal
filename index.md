@@ -4,8 +4,6 @@ The idolcal project is intended to collect the birthday data of characters and s
 
 Download & subscribe links are on the bottom of this page.
 
-> [Follow us on Telegram!](https://t.me/loveidol)
-
 ## Projects we have supported now
 
 - LoveLive Series (including μ's, Aqours, Nijigasaki High School Idol Club and Liella)
@@ -43,4 +41,3 @@ _If you have any information, please contact me by email or Telegram._
 
 [Email](mailto:Liyuu@outlook.jp)
 [Telegram](https://t.me/Pain4Din0)
-[Twitter](https://twitter.com/Pain4Din0)
