@@ -8,8 +8,8 @@ Download & subscribe links are on the bottom of this page.
 
 - LoveLive Series (including μ's, Aqours, Nijigasaki High School Idol Club and Liella)
 - BanG Dream Project (all 7 bands)
-- 22/7 Project
-- IDOLY PRIDE
+- *IDOLY PRIDE (working)*
+- *22/7 Project (planning)*
 
 ## Tips of the calendar time zone
 
@@ -29,11 +29,21 @@ _If you have any information, please contact me by email or Telegram._
 
 [Download .ics file](calendar/LoveLive.ics)
 
-[~~Subscribe on Google Calendar~~](example.com)
+[Add to local calendar](webcal:calendar/LoveLive.ics)
+
+[Subscribe on Google Calendar](https://calendar.google.com/calendar/u/1?cid=MXEwbzBibTZ0MXAxbGZjY2gya3RsNnFoamtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 - **BanGDream Project**
 
-[Download .ics file](calendar/BanGDream.ics)
+[Download .ics file](calendar/BanG_Dream.ics)
+
+[Add to local calendar](webcal:calendar/BanG_Dream.ics)
+
+[Subscribe on Google Calendar](https://calendar.google.com/calendar/u/1?cid=amJ1ZnE4cGttcDBtMXY5OWpjbmlxc3Q3b3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
+- ***IDOLY PRIDE***
+
+[Download .ics file](calendar/IDOLY PRIDE.ics)
 
 [~~Subscribe on Google Calendar~~](example.com)
 
