@@ -2,7 +2,7 @@
 
 The idolcal project is intended to collect the birthday data of characters and seiyuus of a number of idol projects. You can download the `.ics` file down below and import it to your calendar to trace and set reminders for your favorite anime character or seiyuu.
 
-## Content
+## **Content**
 
 ### Projects we have supported now
 
@@ -17,7 +17,7 @@ The idolcal project is intended to collect the birthday data of characters and s
 
 _If you have any information, please contact me by Twitter or Telegram._
 
-## Files
+## **Files**
 
 ### Tips of the calendar time zone
 
@@ -25,7 +25,7 @@ Time zones of all the calendars here are set to `Asia/Tokyo` (GMT+9), which mean
 
 > eg. My current time zone is `Asia/Shanghai` (GMT+8, an hour later than Tokyo time), so I will receive birthday notification of [鐘 嵐珠](https://lovelive-as.bushimo.jp/member/lanzhu/) (Feb 15) at 23:00, Feb 14.
 
-### How to use 
+### How to use (Tap to expand)
 
 <details><summary>For Google Calendar</summary>
 	<ol>
@@ -78,6 +78,12 @@ Time zones of all the calendars here are set to `Asia/Tokyo` (GMT+9), which mean
 	<li>Follow the instructions on your screen and wish you good luck.</li>
     </ol>
 </details>
+### Changelog
+
+```
+22-04-21  0.2  Added BanG Dream Project.
+22-04-20  0.1  First version. Added LoveLive.
+```
 
 # **Download & Subscribe**
 
