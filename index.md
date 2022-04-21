@@ -1,4 +1,4 @@
-# Welcome to idolcal
+# **Welcome to idolcal**
 
 The idolcal project is intended to collect the birthday data of characters and seiyuus of a number of idol projects. You can download the `.ics` file down below and import it to your calendar to trace and set reminders for your favorite anime character or seiyuu.
 
@@ -29,17 +29,17 @@ _If you have any information, please contact me by email or Telegram._
 
 [Download .ics file](calendar/LoveLive.ics)
 
-[Add to local calendar](webcal://idolcal.ml/calendar/LoveLive.ics)
-
 [Subscribe on Google Calendar](https://calendar.google.com/calendar/u/1?cid=MXEwbzBibTZ0MXAxbGZjY2gya3RsNnFoamtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
+[*Add to local calendar*](webcal://idolcal.ml/calendar/LoveLive.ics)
 
 - **BanGDream Project**
 
 [Download .ics file](calendar/BanG_Dream.ics)
 
-[Add to local calendar](webcal://idolcal.ml/calendar/BanG_Dream.ics)
-
 [Subscribe on Google Calendar](https://calendar.google.com/calendar/u/1?cid=amJ1ZnE4cGttcDBtMXY5OWpjbmlxc3Q3b3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+
+[*Add to local calendar*](webcal://idolcal.ml/calendar/BanG_Dream.ics)
 
 - ***IDOLY PRIDE***
 
@@ -47,7 +47,6 @@ _If you have any information, please contact me by email or Telegram._
 
 [~~Subscribe on Google Calendar~~](example.com)
 
-### Contact information & Issues Report
+### Contact & Issues Report
 
-[Email](mailto:Liyuu@outlook.jp)
-[Telegram](https://t.me/Pain4Din0)
+[Email](mailto:Liyuu@outlook.jp) & [Telegram](https://t.me/Pain4Din0)
