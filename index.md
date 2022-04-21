@@ -19,7 +19,7 @@ Time zones of all the calendars here are set to `Asia/Tokyo` (GMT+9), which mean
 
 ## Unknown Birthdays
 
-- Birth year of [志崎樺音](http://acecrew.co.jp/artist/shizakikanon.html)
+- Birth year of [志崎樺音](http://acecrew.co.jp/artist/shizakikanon.html), [mika](http://acecrew.co.jp/artist/mika.html)
 
 _If you have any information, please contact me by email or Telegram._
 
@@ -31,9 +31,9 @@ _If you have any information, please contact me by email or Telegram._
 
 [~~Subscribe on Google Calendar~~](example.com)
 
-- ~~**BanGDream Project**~~
+- **BanGDream Project**
 
-[~~Download .ics file~~](calendar/BanGDream.ics)
+[Download .ics file](calendar/BanGDream.ics)
 
 [~~Subscribe on Google Calendar~~](example.com)
 
