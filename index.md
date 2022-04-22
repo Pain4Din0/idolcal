@@ -60,16 +60,15 @@ Time zones of all the calendars here are set to `Asia/Tokyo` (GMT+9), which mean
 	<li>Select 'OK'.</li>
     </ol>
 </details>
-
 <details><summary>For iOS Devices</summary>
 	<ol>
     <li>Simply tap the 'Add to local calendar' link. It will jump to Calendar app automatically.</li>
 	<li>Tap 'Subscribe'.</li>
 	<li>Select the account to which you want the calendars subscribed. You can also change the calendar tite and color here.</li>
 	<li>Tap 'Add'.</li>
-	<li>Select Open as New. The items are automatically imported into your calendar.</li>
     </ol>
 </details>
+
 
 <details><summary>For Android Devices</summary>
 	<ol>
